@@ -1,3 +1,2 @@
-git clone https://github.com/kandavelAnbu/kubernetesApp.git
-cd kubernetesApp/octopusDeploy
+cd octopusDeploy
 kubectl apply -f kube
